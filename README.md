@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Healing Orb.jpeg" alt="Dibyojyoti Bhattacharjee" width="800"/>
+</p>
+
 # Dibyojyoti Bhattacharjee
 
 I work with signals: sound, images, biosignals, anything that carries information through noise.
